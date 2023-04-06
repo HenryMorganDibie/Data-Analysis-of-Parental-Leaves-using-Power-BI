@@ -1,5 +1,5 @@
 # Data-Analysis-of-Parental-Leaves-using-Power-BI
-# Here are some insights that can be drawn from the data analysis:
+## Here are some insights that can be drawn from the data analysis:
 
 * Maternity leave policies: The data shows that some companies provide significantly more paid maternity leave than others. Guild Education and WeWork, both in the "Business Services: Other" industry, provide the highest amount of paid maternity leave at 14 weeks, while Randstad USA in the same industry provides only 5 weeks. On average, companies in the dataset provide 9.2 weeks of paid maternity leave.
 
